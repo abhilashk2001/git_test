@@ -1,2 +1,2 @@
 # git_test
-“Hello Odin!”
+“Hello Odin!”, this is your first tutorial
